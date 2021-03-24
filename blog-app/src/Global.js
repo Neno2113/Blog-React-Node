@@ -1,5 +1,5 @@
 var Global = {
-    url: "https://frozen-retreat-03683.herokuapp.com/api/"
+    url: "http://localhost:3900/api/"
 }
 
 
